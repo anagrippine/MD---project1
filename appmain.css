@@ -13,7 +13,17 @@ body {
     margin: auto;
     transition: 0.5s;
 }
+.container a {
+    display: inline-block;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #333;
+    margin-top: 10px;
+}
 
+.container a {
+    color: #555;
+}
 header {
     display: grid;
     grid-template-columns: 1fr 50px;
