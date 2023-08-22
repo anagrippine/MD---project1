@@ -45,59 +45,7 @@ li {
 }
 
 
-nav {
-    padding: 15px;
-    width: 100%;
-    display: flex;
-    background: #fffefef4;
-}
 
-nav .content-nav {
-    display: flex;
-    line-height: 2rem;
-    flex-direction: row;
-    justify-content: flex-end;
-    width: 60%;
-}
-
-nav .content-nav ul {
-    display: flex;
-}
-
-nav .content-nav ul li a {
-    text-decoration: none;
-    color: #43433e;
-    text-transform: uppercase;
-    padding: 0 15px;
-    font-weight: 800;
-}
-
-nav .content-nav ul li a:hover {
-    color: #fff;
-}
-
-.content-nav form {
-    position: relative;
-}
-
-.content-nav form input {
-    border: none;
-    background: #fff;
-    padding: 7px;
-    outline: none;
-    border-radius: 12px;
-}
-
-.content-nav form button {
-    padding: 5px;
-    border-radius: 12px;
-    position: absolute;
-    right: 0;
-    top: 2px;
-    border: none;
-    outline: none;
-    background: #fff;
-}
 
 header {
     display: grid;
